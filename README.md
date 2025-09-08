@@ -12,3 +12,5 @@
 ## 목차
 - [2025-09-01: Lotto 코드 리팩토링](2025/09/09.01-lotto-refactor.md)
 - [2025-09-03: EFFECTIVE_JAVA_아이템_46](EFFECTIVE_JAVA_3/아이템_46.md)
+- [2025-09-05: EFFECTIVE_JAVA_아이템_42](EFFECTIVE_JAVA_3/아이템_42.md)
+- [2025-09-05: EFFECTIVE_JAVA_아이템_43](EFFECTIVE_JAVA_3/아이템_43.md)
