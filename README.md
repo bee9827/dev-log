@@ -9,9 +9,14 @@
 2. Before → After 코드 비교 or 학습 요약 필수
 3. 배운 점/느낀 점 최소 1줄 이상 작성
 
-## 목차
+## 정리
 - [2025-09-01: Lotto 코드 리팩토링](2025/09/09.01-lotto-refactor.md)
+- [2025-09-08: Good Code, Bad Code Chapter 1,2](2025/09/09.08_GoodCode_BadCode.md)
+
+## Effective Java
 - [2025-09-03: EFFECTIVE_JAVA_아이템_46](EFFECTIVE_JAVA_3/아이템_46.md)
 - [2025-09-05: EFFECTIVE_JAVA_아이템_42](EFFECTIVE_JAVA_3/아이템_42.md)
 - [2025-09-05: EFFECTIVE_JAVA_아이템_43](EFFECTIVE_JAVA_3/아이템_43.md)
-- [2025-09-08: Good Code, Bad Code Chapter 1,2](2025/09/09.08_GoodCode_BadCode.md)
+
+## Good Code, Bad Code
+- [2025-09-09: Good Code, Bad Code - 핵심 요소 Chapter 6(가독성)](Good_Code,Bad_Code/핵심_요소/가독성.md)
