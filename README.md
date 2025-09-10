@@ -11,7 +11,8 @@
 
 ## 정리
 - [2025-09-01: Lotto 코드 리팩토링](2025/09/09.01-lotto-refactor.md)
-- [2025-09-08: Good Code, Bad Code Chapter 1,2](2025/09/09.08_GoodCode_BadCode.md)
+- [2025-09-08: Good Code, Bad Code Chapter 1,2](2025/09/09.08_GoodCode_BadCode_Chapter1,2)
+- [2025-09-08: Good Code, Bad Code Chapter 3](2025/09/09.10_GoodCode_BadCode_Chapter3)
 
 ## Effective Java
 - [2025-09-03: EFFECTIVE_JAVA_아이템_46](EFFECTIVE_JAVA_3/아이템_46.md)
@@ -19,4 +20,4 @@
 - [2025-09-05: EFFECTIVE_JAVA_아이템_43](EFFECTIVE_JAVA_3/아이템_43.md)
 
 ## Good Code, Bad Code
-- [2025-09-09: Good Code, Bad Code - 핵심 요소 Chapter 6(가독성)](Good_Code,Bad_Code/핵심_요소/가독성.md)
+- [2025-09-08: Good Code, Bad Code - 핵심 요소 Chapter 6(가독성)](Good_Code,Bad_Code/핵심_요소/가독성.md)
