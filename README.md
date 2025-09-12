@@ -20,4 +20,5 @@
 - [2025-09-05: EFFECTIVE_JAVA_아이템_43](EFFECTIVE_JAVA_3/아이템_43.md)
 
 ## Good Code, Bad Code
-- [2025-09-08: Good Code, Bad Code - 핵심 요소 Chapter 6(가독성)](Good_Code,Bad_Code/핵심_요소/가독성.md)
+- [2025-09-08: Good Code, Bad Code - 핵심 요소 Chapter 5. 가독성 높은 코드를 작성하라](Good_Code,Bad_Code/핵심_요소/5_가독성 높은 코드를 작성하라.md)
+- [2025-09-12: Good Code, Bad Code - 핵심 요소 Chapter 6. 예측 가능한 코드를 작성하라](Good_Code,Bad_Code/핵심_요소/6_예측 가능한 코드를 작성하라.md)
