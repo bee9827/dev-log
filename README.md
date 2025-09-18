@@ -22,3 +22,6 @@
 ## Good Code, Bad Code
 - [2025-09-08: Good Code, Bad Code - 핵심 요소 Chapter 5. 가독성 높은 코드를 작성하라](Good_Code,Bad_Code/핵심_요소/5_가독성_높은_코드를_작성하라)
 - [2025-09-12: Good Code, Bad Code - 핵심 요소 Chapter 6. 예측 가능한 코드를 작성하라](Good_Code,Bad_Code/핵심_요소/6_예측_가능한_코드를_작성하라)
+
+## 토이 프로젝트(클라이밍 기록)
+- [2025-09-18: 초기 기획서 및 ERD](2025/09/09.18_클라이밍_기록앱_초기_기획서)
